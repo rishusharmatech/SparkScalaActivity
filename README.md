@@ -1,5 +1,7 @@
 # SparkScalaActivity
+
 Project: Spark/Scala activity for Quantexa
+Deveoped by: Rishu Sharma
 
 The activity loads two data files for flight and passenger data and performs calculations to output various parameters such as total number of flights for each month,100 most frequent flyers,greatest number of countries a passenger has been in without being in the UK, the passengers who have been on more than 3 flights together etc. and few more. 
 
